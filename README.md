@@ -1,6 +1,6 @@
 # Práctica de Strings y Métodos de Arrays en JavaScript
 
-Este repositorio contiene una serie de ejercicios prácticos realizados en la materia de **FrontEnd**, enfocados en el uso de los métodos más utilizados de los arrays en **JavaScript**:  
+Este repositorio contiene una serie de ejercicios prácticos realizados en la materia de **Desarrollo de Sistemas Web FrontEnd**, enfocados en el uso de los métodos más utilizados de los arrays en **JavaScript**:  
 `forEach()`, `map()`, `filter()`, `find()` y `reduce()`.
 
 ---
